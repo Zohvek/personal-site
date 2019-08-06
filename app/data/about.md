@@ -9,7 +9,8 @@
 <br><br>
 <br><br>
 #### I like
-- Skiing
+- Hiking
+- Spending time with family
 
 
 
