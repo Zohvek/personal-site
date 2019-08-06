@@ -1,7 +1,7 @@
 const data = [
   {
     path: '/',
-    label: 'Zohvek',
+    label: 'RSH',
     index: true,
   },
   {
