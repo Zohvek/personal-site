@@ -18,7 +18,7 @@ const data = [
     icon: faFacebook,
   },
   {
-    link: 'https://www.instagram.com/rshutton/',
+    link: 'https://www.instagram.com',
     label: 'Instagram',
     icon: faInstagram,
   },
@@ -28,7 +28,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/rshutton',
+    link: 'https://angel.co',
     label: 'Angel List',
     icon: faAngellist,
   },
