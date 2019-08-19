@@ -15,21 +15,6 @@ export const githubKeys = [
 // TODO To be provided by an API
 const data = [
   {
-    label: 'Stars this repository has on github',
-    key: 'stargazers_count',
-    value: '0',
-    link: 'https://github.com/zohvek/',
-  }, {
-    label: 'Number of people watching this repository',
-    key: 'subscribers_count',
-    value: '1',
-    link: 'https://github.com/zohvek/',
-  }, {
-    label: 'Number of linter warnings',
-    // TODO ammend this with a pre-commit hook
-    // `npm run lint | grep problems | tail -1 | awk '{print $2}'`
-    value: '0',
-  }, {
     label: 'Last updated at',
     key: 'pushed_at',
     value: dayjs().format('MMMM D, YYYY'),
