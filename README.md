@@ -1,3 +1,3 @@
 More information to come as this site comes together.
 
-Putting the finishing touches on soon..
+Adding items to resume, history, work etc. 
