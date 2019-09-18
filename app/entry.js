@@ -9,7 +9,7 @@ import Index from './views/Index';
 import About from './views/About';
 import Projects from './views/Projects';
 import Resume from './views/Resume';
-import Stats from './views/Stats';
+import stats from './views/stats';
 import Contact from './views/Contact';
 
 import NotFound from './views/NotFound';
@@ -23,7 +23,7 @@ ReactDOM.render(
       <Route exact path="/" component={Index} />
       <Route path="/about" component={About} />
       <Route path="/projects" component={Projects} />
-      <Route path="/stats" component={Stats} />
+      <Route path="/stats" component={stats} />
       <Route path="/contact" component={Contact} />
       <Route path="/resume" component={Resume} />
       {/* Only useful in development mode */}

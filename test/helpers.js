@@ -21,9 +21,9 @@ const pages = [
     heading: 'PROJECTS',
   },
   {
-    route: '/Blog',
-    title: 'Blog | Ryan S. Hutton',
-    heading: 'BLOG',
+    route: '/stats',
+    title: 'stats | Ryan S. Hutton',
+    heading: 'stats',
   },
   {
     route: '/contact',

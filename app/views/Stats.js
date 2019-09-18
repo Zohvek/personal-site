@@ -4,12 +4,12 @@ import Helmet from 'react-helmet';
 
 import Main from '../layouts/Main';
 
-import Personal from '../components/Stats/Personal';
-import Site from '../components/Stats/Site';
+import Personal from '../components/stats/Personal';
+import Site from '../components/stats/Site';
 
-const Stats = () => (
+const stats = () => (
   <Main>
-    <Helmet title="Stats" />
+    <Helmet title="stats" />
     <article className="post" id="stats">
       <header>
         <div className="title">
@@ -22,4 +22,4 @@ const Stats = () => (
   </Main>
 );
 
-export default Stats;
+export default stats;

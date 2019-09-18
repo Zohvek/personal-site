@@ -23,7 +23,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/rshutton',
+    link: 'https://www.linkedin.com/in/ryan-hutton-95903944/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },

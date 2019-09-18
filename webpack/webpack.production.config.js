@@ -4,7 +4,7 @@ import webpack from 'webpack';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
 import ScriptExtHtmlWebpackPlugin from 'script-ext-html-webpack-plugin';
 import MiniCssExtractPlugin from 'mini-css-extract-plugin';
-import StatsPlugin from 'stats-webpack-plugin';
+import statsPlugin from 'stats-webpack-plugin';
 
 const basePath = process.env.BASE_PATH || '';
 
@@ -35,7 +35,7 @@ export default {
     new MiniCssExtractPlugin({
       filename: '[name]-[hash].min.css',
     }),
-    new StatsPlugin('webpack.stats.json', {
+    new statsPlugin('webpack.stats.json', {
       source: false,
       modules: false,
     }),

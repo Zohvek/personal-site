@@ -3,7 +3,7 @@ import React, { Fragment, useState, useEffect } from 'react';
 import Table from './Table';
 import personalData from '../../data/stats';
 
-const PersonalStats = () => {
+const Personalstats = () => {
   const [data, setData] = useState(personalData);
 
   const tick = () => {
@@ -24,10 +24,10 @@ const PersonalStats = () => {
 
   return (
     <Fragment>
-      <h3>Some stats about me</h3>
+      <h3>Me!</h3>
       <Table data={Object.keys(data).map(key => data[key])} />
     </Fragment>
   );
 };
 
-export default PersonalStats;
+export default Personalstats;
