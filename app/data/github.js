@@ -12,7 +12,7 @@ export const githubKeys = [
   'pushed_at',
 ];
 
-// TODO To be provided by an API
+
 const data = [
   {
     label: 'Last updated at',
