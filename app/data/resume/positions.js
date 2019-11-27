@@ -2,7 +2,7 @@
 const positions = [
   {
     company: 'Missouri Gaming Commission',
-    position: 'Software Engineer Team Lead - Architect',
+    position: 'Software Engineer Team Lead',
     link: 'https://mgc.dps.mo.gov',
     daterange: 'April 2018 - Present',
     points: [

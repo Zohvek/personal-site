@@ -16,10 +16,10 @@ const data = [
     path: '/projects',
     label: 'Projects',
   },
-  {
-    path: '/stats',
-    label: 'Blog',
-  },
+  //{
+    //path: '/stats',
+    //label: 'Blog',
+  //},
   {
     path: '/contact',
     label: 'Contact',
