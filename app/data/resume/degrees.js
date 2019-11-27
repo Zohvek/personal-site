@@ -7,7 +7,7 @@ const degrees = [
   }, {
     school: 'Missouri Western State University',
     degree: 'B.S. Economics',
-    link: 'https://mwsu.edu',
+    link: 'https://www.missouriwestern.edu/',
     year: 2007,
   },
 ];
