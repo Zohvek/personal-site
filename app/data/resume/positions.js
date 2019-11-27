@@ -8,7 +8,7 @@ const positions = [
     points: [
       'Lead, build up my team. Improve skills, knowledge and abilities of my developers',
       'Direct and lead development team',
-      'Involved in every aspect of Project Management',
+      'Involved in every aspect of project management',
       'Implement new technologies, front to back software architecture and design',
       'Work with C#, VB.Net, SQL Server, JavaScript',
     ],
