@@ -20,6 +20,8 @@ const positions = [
     daterange: 'January 2015 - April 2018',
     points: [
       'Developed custom applications in C#/VB.NET with Microsoft SQL Server back-end.',
+      'Upgrading, configuring and debugging existing systems',
+      'Providing technical support for web, desktop or mobile applications',
     ],
   }, {
     company: 'NPG Printing',
