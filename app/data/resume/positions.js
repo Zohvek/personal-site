@@ -10,6 +10,7 @@ const positions = [
       'Direct and lead development team',
       'Involved in every aspect of project management',
       'Implement new technologies, front to back software architecture and design',
+      'Locating and directing resolutions for critical issues related to software',
       'Work with C#, VB.Net, SQL Server, JavaScript',
     ],
   }, {
