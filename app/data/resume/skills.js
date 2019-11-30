@@ -162,7 +162,7 @@ export const skills = [
     category: ['Python'],
   },
   {
-    title: 'SQL Server (Microsoft)',
+    title: 'Microsoft SQL Server',
     compentency: 5,
     category: ['Databases'],
   },
