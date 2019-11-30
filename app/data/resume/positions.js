@@ -22,6 +22,7 @@ const positions = [
       'Developed custom applications in C#/VB.NET with Microsoft SQL Server back-end.',
       'Upgrading, configuring and debugging existing systems',
       'Providing technical support for web, desktop or mobile applications',
+      'Participate in requirements analysis',
     ],
   }, {
     company: 'NPG Printing',
