@@ -11,6 +11,7 @@ const positions = [
       'Involved in every aspect of project management',
       'Implement new technologies, front to back software architecture and design',
       'Locating and directing resolutions for critical issues related to software',
+      'Develop documentation throughout the software development life cycle (SDLC)',
       'Work with C#, VB.Net, SQL Server, JavaScript',
     ],
   }, {
