@@ -26,9 +26,6 @@ export const categories = [
   }, {
     name: 'Web Development',
     color: '#cc7b94',
-  }, {
-    name: 'C#',
-    color: '#008000',
   },
 ];
 
@@ -40,18 +37,23 @@ export const skills = [
   },
   {
     title: 'ASP.Net',
-    compentency: 5,
-    category: ['Web Development', 'C#'],
+    compentency: 4,
+    category: ['Web Development', 'Frameworks']
   },
   {
     title: '.Net Core',
     compentency: 4,
-    category: ['Web Development', 'C#'],
+    category: ['Web Development', 'Frameworks'],
   },
   {
     title: 'C#',
     compentency: 5,
-    category: ['C#'],
+    category: ['Languages'],
+  },
+  {
+    title: 'Java',
+    compentency: 3,
+    category: ['Languages'],
   },
   {
     title: 'Node.JS',
@@ -96,6 +98,11 @@ export const skills = [
   {
     title: 'Flask',
     compentency: 3,
+    category: ['Web Development', 'Frameworks', 'Python'],
+  },
+  {
+    title: 'Django',
+    compentency: 4,
     category: ['Web Development', 'Frameworks', 'Python'],
   },
   {
@@ -153,11 +160,6 @@ export const skills = [
     title: 'GraphQL',
     compentency: 2,
     category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'Pylint',
-    compentency: 4,
-    category: ['Python'],
   },
   {
     title: 'Microsoft SQL Server',
