@@ -35,8 +35,18 @@ export const categories = [
 export const skills = [
   {
     title: 'Javascript',
-    compentency: 5,
+    compentency: 4,
     category: ['Web Development', 'Languages', 'Javascript'],
+  },
+  {
+    title: 'ASP.Net',
+    compentency: 5,
+    category: ['Web Development', 'C#'],
+  },
+  {
+    title: '.Net Core',
+    compentency: 4,
+    category: ['Web Development', 'C#'],
   },
   {
     title: 'C#',
@@ -45,12 +55,12 @@ export const skills = [
   },
   {
     title: 'Node.JS',
-    compentency: 5,
+    compentency: 3,
     category: ['Web Development', 'Frameworks', 'Javascript'],
   },
   {
     title: 'React',
-    compentency: 4,
+    compentency: 3,
     category: ['Web Development', 'Frameworks', 'Javascript'],
   },
   {
@@ -60,7 +70,7 @@ export const skills = [
   },
   {
     title: 'Microsoft Azure',
-    compentency: 4,
+    compentency: 3,
     category: ['Web Development', 'Tools'],
   },
   {
@@ -70,11 +80,6 @@ export const skills = [
   },
   {
     title: 'MongoDB',
-    compentency: 4,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'ElasticSearch',
     compentency: 3,
     category: ['Web Development', 'Databases'],
   },
@@ -89,13 +94,8 @@ export const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'Redis',
-    compentency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
     title: 'Flask',
-    compentency: 4,
+    compentency: 3,
     category: ['Web Development', 'Frameworks', 'Python'],
   },
   {
@@ -140,7 +140,7 @@ export const skills = [
   },
   {
     title: 'Python',
-    compentency: 5,
+    compentency: 4,
     category: ['Languages', 'Python'],
 
   },
@@ -161,7 +161,7 @@ export const skills = [
   },
   {
     title: 'Microsoft SQL Server',
-    compentency: 5,
+    compentency: 4,
     category: ['Databases'],
   },
 ];
