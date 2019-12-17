@@ -9,7 +9,7 @@ const Index = () => (
       <header>
         <div className="title">
           <h2><Link to="/">Welcome!</Link></h2>
-          <p>A react app written with modern Javascript.</p>
+          <p> Personal website - and excuse to learn React </p>
         </div>
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
