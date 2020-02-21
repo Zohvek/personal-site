@@ -20,9 +20,7 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Ryan. I like building things.
-          I have a Masters in Computer Information Systems with an emphasis in Software Engineering from Bellevue University, 
-          and a Bachelor's of Science in Economics from Missouri Western State University. 
+      <p> I'm a software engineer based in Jefferson City, MO specializing in building and designing exceptional, high-quality websites and desktop applications.
       </p>
       <ul className="actions">
         <li>
