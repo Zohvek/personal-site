@@ -35,7 +35,7 @@ const Nav = () => (
           <li key={s.label}><a href={s.link}><FontAwesomeIcon icon={s.icon} /></a></li>
         ))}
       </ul>
-      <p className="copyright">&copy; Ryan Scott Hutton <Link to="/">ryanhutton.dev</Link>.</p>
+      <p className="copyright">Ryan Hutton</p>
     </section>
   </section>
 );
