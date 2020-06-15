@@ -29,7 +29,7 @@ const positions = [
     company: 'NPG Printing',
     position: 'Pre-Press Operator',
     link: 'http://www.npgco.com/',
-    daterange: 'February 2016 - March 2016',
+    daterange: 'February 2013 - December 2015',
     points: [
       'Format and proof text and images submitted by designers',
       'Produce printing plates that go onto the web press',
