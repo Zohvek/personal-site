@@ -1,7 +1,7 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Starcraft 2 AI Tournament',
+    title: 'Starcraft 2 AI Tournament - Work in progress',
     subtitle: '',
     link: 'https://github.com/Zohvek',
     image: '/images/projects/sc2ai.jpg',
