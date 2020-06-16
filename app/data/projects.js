@@ -9,7 +9,7 @@ const data = [
     desc: 'Built to compete in the SC2AI. '
       + 'More details below.. '
       + ' '
-      + 'a.',
+      + ' ',
   },
 ];
 
