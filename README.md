@@ -1,5 +1,5 @@
-More information to come as this site comes together.
+## Still a work in progress ##
 
-Adding items to resume, history, work etc. 
+Huge thanks to Michael 'mldangelo' Dangelo for providing a template I based this site off of. https://github.com/mldangelo/personal-site/
 
-Add personal projects to site.
+I've learned alot of JavaScript and React.JS from working on this project! 

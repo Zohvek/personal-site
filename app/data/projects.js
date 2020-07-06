@@ -5,11 +5,16 @@ const data = [
     subtitle: '',
     link: 'https://github.com/Zohvek',
     image: '/images/projects/sc2ai.jpg',
-    date: '2019-01-01',
+    date: '2019-05-07',
     desc: 'Built to compete in the SC2AI. '
-      + 'More details below.. '
-      + ' '
-      + ' ',
+  },
+  {
+    title: 'Personal Website',
+    subtitle: '',
+    link: 'https://github.com/Zohvek/personal-site',
+    image: '/images/projects/site.jpg',
+    date: '2019-08-01',
+    desc: 'The very site you see currently!'
   },
 ];
 
